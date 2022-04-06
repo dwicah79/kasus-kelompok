@@ -1,6 +1,6 @@
 #include<iostream>
 #include "../library/proses.h"
-int main(int argc, char const [])
+int main()
 {
 	Proses proses;
 	proses.getData();
